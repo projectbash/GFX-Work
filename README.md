@@ -19,3 +19,4 @@ Blue/Purple gradient arrows for teammates on minimap, Purple dot for the bot on 
 # Camos
 "Fruit Roll Up" multi-colored server based camo that replaced Arctic camo.
 [Images](https://www.google.com)
+ 
