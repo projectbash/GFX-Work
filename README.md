@@ -6,7 +6,7 @@ The main page of the Bash Server mod.
 [Images](https://www.google.com)
 
 # Logo
-The BASH Y2K logo made by me, turned into spinning gif for Server and Emblem by 4G & Noah.
+The BASH Y2K logo made by me, turned into spinning gif for Server and Emblem by [4G](https://twitter.com/4GlVE) & [Noah](https://twitter.com/gIockmag).
 [Images](https://www.google.com)
 
 # Emblems
