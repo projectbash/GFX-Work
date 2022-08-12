@@ -19,7 +19,7 @@ Blue/Purple gradient arrows for teammates on minimap, Purple dot for the bot on 
 [Maps](https://i.imgur.com/xOjdcr4.png)
 
 # Camos
-"Galaxy Dreams" speckled server based camo that replaced Desert camo
+"Galaxy Dreams" speckled server based camo that replaced Desert camo.
 [Camo 1](https://i.imgur.com/TQCVocI.png)
 
 "Fruit Roll Up" multi-colored server based camo that replaced Arctic camo.
