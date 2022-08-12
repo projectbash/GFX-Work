@@ -15,7 +15,7 @@ There are a number of emblems that were added.
 [Emblems](https://i.imgur.com/2l2H73A.png)
 
 # Minimap
-Blue/Purple gradient arrows for teammates on minimap, Purple dot for the bot on minimap
+Blue/Purple gradient arrows for teammates on minimap, Purple dot for the bot on minimap.
 [Maps](https://i.imgur.com/xOjdcr4.png)
 
 # Camos
